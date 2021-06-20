@@ -21,3 +21,6 @@ disablePathToLower = true
     [markup.tableOfContents]
         startLevel = 1
         endLevel = 9
+
+[params]
+    custom_css = ["overrides.css"]
