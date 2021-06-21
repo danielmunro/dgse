@@ -45,6 +45,12 @@ The first example does not mention _what_ kind of writer the speaker is referenc
 
 1. A [library](#library), module, or service that can be integrated into code.
 
+## Big O Notation
+
+1. Definition. A mathematical notation, Big O is used to classify [algorithmic](#algorithm) performance in space or time requirements. Big O is used to measure the upper bound of growth, ie, worst case scenario.
+
+1. Reference. [Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation).
+
 ## Bug
 
 1. Definition. Loosely defined as a problem in code, which could be any of the following:
