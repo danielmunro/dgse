@@ -115,7 +115,11 @@ The first example does not mention _what_ kind of writer the speaker is referenc
 
 ## DevOps
 
-1. TBD
+1. Concept. Traditionally, "development" and "operations" have been largely separate responsibilities in technology organizations. However, the trend of DevOps is to combine these professions.
+   
+   One flaw identified by the separation of these responsibilities is that barriers tend to rise, slowing all efforts. The benefit from combining these job responsibilities is that they are essentially two sides to the same issue, and in that sense, the separation was a bad idea in the first place.
+   
+   As an outcome of this holistic view, DevOps promotes autonomy, ownership, understanding, and automation. [Infrastructure-as-code (IaC)](#infrastructure-as-code-iac) is another big concept related to DevOps.
 
 ## Dynamic Language
 
@@ -139,9 +143,13 @@ The first example does not mention _what_ kind of writer the speaker is referenc
 
 1. Software. For use by programmers. Includes a combination of tools such as a text editor and language compiler. Often highly extensible and customizable.
 
+## Infrastructure As Code (IaC)
+
+1. Architecture concept. The idea is that all infrastructure (web servers, databases, ingresses, message queues, etc) for a given environment are scripted. Setup and teardown is automated and repeatable. Some examples of software used to automate infrastructure are: [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Salt](https://saltproject.io/) to name just a few. 
+
 ## Integration Test
 
-1. TBD
+1. Concept. Test that encompasses more components than a [unit test](#unit-test). There is no hard definition for what makes a unit test versus an integration test. 
 
 ## Interface Segregation Principle
 
@@ -149,7 +157,7 @@ The first example does not mention _what_ kind of writer the speaker is referenc
 
 ## Library
 
-1. Someone else's code.
+1. Concept. Someone else's code.
 
 1. Code that is packaged and maintained externally to the code under development.
 
