@@ -2,6 +2,9 @@
 title: "IDE"
 date: 2021-06-21T08:07:57-07:00
 draft: false
+tags:
+  - acronym
+short: Integrated development environment.
 ---
 
 1. Acronym. Integrated development environment.

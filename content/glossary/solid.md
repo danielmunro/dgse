@@ -2,6 +2,9 @@
 title: "SOLID"
 date: 2021-06-22T20:35:41-07:00
 draft: false
+tags:
+  - acronym
+short: Programming design principles.
 ---
 
 1. Programming design principles. Acronym. Stands for:

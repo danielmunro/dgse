@@ -2,6 +2,15 @@
 title: "CI/CD"
 date: 2021-06-21T07:32:56-07:00
 draft: false
+tags:
+  - acronym
+  - automation
+  - developer workflow
+short: Developer workflow whereby code changes go through an automated process after check in.
+resources:
+   - { url: https://en.wikipedia.org/wiki/CI/CD, name: Wikipedia }
+   - { url: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment, name: "Atlassian: Continuous integration vs. continuous delivery vs. continuous deployment" } 
+   - { url: https://www.redhat.com/en/topics/devops/what-is-ci-cd, name: "RedHat: What is CI/CD?" }
 ---
 
 1. Acronym. [Continuous integration](#continuous-integration) / [continuous delivery](#continuous-delivery).
