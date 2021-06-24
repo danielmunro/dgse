@@ -2,270 +2,270 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/home/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/home/</loc>
     <lastmod>2021-06-16T08:10:15-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/introduction/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/introduction/</loc>
     <lastmod>2021-06-16T08:10:15-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/introduction/preface/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/introduction/preface/</loc>
     <lastmod>2021-06-16T08:10:15-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/</loc>
     <lastmod>2021-06-20T21:22:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/introduction/about/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/introduction/about/</loc>
     <lastmod>2021-06-16T08:09:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/</loc>
     <lastmod>2021-06-24T07:21:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/smell/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/smell/</loc>
     <lastmod>2021-06-24T07:21:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/rest/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/rest/</loc>
     <lastmod>2021-06-24T07:15:53-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/types/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/types/</loc>
     <lastmod>2021-06-23T21:38:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/weakly-typed/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</loc>
     <lastmod>2021-06-23T21:38:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/strongly-typed/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/strongly-typed/</loc>
     <lastmod>2021-06-23T21:38:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/function/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/function/</loc>
     <lastmod>2021-06-23T16:19:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/language-construct/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/language-construct/</loc>
     <lastmod>2021-06-23T16:19:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/concept/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/concept/</loc>
     <lastmod>2021-06-23T15:55:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/</loc>
     <lastmod>2021-06-23T15:55:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/developer-tools/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/developer-tools/</loc>
     <lastmod>2021-06-22T20:39:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/developer-workflow/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/developer-workflow/</loc>
     <lastmod>2021-06-22T20:39:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/version-control-system/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/version-control-system/</loc>
     <lastmod>2021-06-22T20:39:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/virtual-machine/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/virtual-machine/</loc>
     <lastmod>2021-06-22T20:38:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/testing/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/testing/</loc>
     <lastmod>2021-06-22T20:38:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/unit-test/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/unit-test/</loc>
     <lastmod>2021-06-22T20:38:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/computer-science/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/computer-science/</loc>
     <lastmod>2021-06-22T20:38:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/type/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/type/</loc>
     <lastmod>2021-06-22T20:38:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/turing-complete/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/turing-complete/</loc>
     <lastmod>2021-06-22T20:37:49-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/software-development-methodology/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/software-development-methodology/</loc>
     <lastmod>2021-06-22T20:37:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/test-driven-development/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/test-driven-development/</loc>
     <lastmod>2021-06-22T20:37:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/software/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/software/</loc>
     <lastmod>2021-06-22T20:37:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/terminal/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/terminal/</loc>
     <lastmod>2021-06-22T20:37:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/stream/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/stream/</loc>
     <lastmod>2021-06-22T20:36:47-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/design-pattern/</loc>
     <lastmod>2021-06-22T20:36:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/strategy-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/strategy-design-pattern/</loc>
     <lastmod>2021-06-22T20:36:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/state-machine-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</loc>
     <lastmod>2021-06-22T20:36:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/acronym/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/acronym/</loc>
     <lastmod>2021-06-22T20:35:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/SOLID/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/SOLID/</loc>
     <lastmod>2021-06-22T20:35:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/solid/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/solid/</loc>
     <lastmod>2021-06-22T20:35:41-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/smoke-test/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</loc>
     <lastmod>2021-06-22T20:35:21-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/singleton-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/singleton-design-pattern/</loc>
     <lastmod>2021-06-22T20:35:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/design-principle/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/design-principle/</loc>
     <lastmod>2021-06-22T20:34:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/single-responsibility-principle/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/single-responsibility-principle/</loc>
     <lastmod>2021-06-22T20:34:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/sanity-check/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/sanity-check/</loc>
     <lastmod>2021-06-22T20:33:59-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/regression/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/regression/</loc>
     <lastmod>2021-06-22T20:33:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/open-source/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/open-source/</loc>
     <lastmod>2021-06-22T20:33:13-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/open-closed-principle/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/open-closed-principle/</loc>
     <lastmod>2021-06-22T20:32:42-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/observer-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/observer-design-pattern/</loc>
     <lastmod>2021-06-22T20:31:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/multiton-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/multiton-design-pattern/</loc>
     <lastmod>2021-06-22T20:30:55-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/method/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/method/</loc>
     <lastmod>2021-06-22T20:30:16-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/liskov-substitution-principle/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/liskov-substitution-principle/</loc>
     <lastmod>2021-06-22T20:29:10-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/library/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/library/</loc>
     <lastmod>2021-06-22T20:28:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/interface-segregation-principle/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/interface-segregation-principle/</loc>
     <lastmod>2021-06-22T20:28:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/integration-test/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/integration-test/</loc>
     <lastmod>2021-06-22T20:27:18-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/automation/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/automation/</loc>
     <lastmod>2021-06-22T20:26:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/infrastructure-as-code/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/infrastructure-as-code/</loc>
     <lastmod>2021-06-22T20:26:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/ide/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/ide/</loc>
     <lastmod>2021-06-21T08:07:57-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/functional-programming/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/functional-programming/</loc>
     <lastmod>2021-06-21T08:07:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/tags/programming-paradigm/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/tags/programming-paradigm/</loc>
     <lastmod>2021-06-21T08:07:35-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/factory-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/factory-design-pattern/</loc>
     <lastmod>2021-06-21T08:07:13-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/facade-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/facade-design-pattern/</loc>
     <lastmod>2021-06-21T08:05:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/dynamic-language/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/dynamic-language/</loc>
     <lastmod>2021-06-21T08:05:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/devops/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/devops/</loc>
     <lastmod>2021-06-21T08:04:28-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/design-pattern/</loc>
     <lastmod>2021-06-21T08:03:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/dependency-inversion/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/dependency-inversion/</loc>
     <lastmod>2021-06-21T08:02:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/dependency/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/dependency/</loc>
     <lastmod>2021-06-21T08:01:58-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/continuous-delivery/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/continuous-delivery/</loc>
     <lastmod>2021-06-21T08:01:33-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/continuous-integration/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/continuous-integration/</loc>
     <lastmod>2021-06-21T08:01:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/container/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/container/</loc>
     <lastmod>2021-06-21T08:00:04-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/compiled-language/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/compiled-language/</loc>
     <lastmod>2021-06-21T07:59:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/ci-cd/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/ci-cd/</loc>
     <lastmod>2021-06-21T07:32:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/cloud/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/cloud/</loc>
     <lastmod>2021-06-21T07:31:16-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/object-oriented-programming/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/object-oriented-programming/</loc>
     <lastmod>2021-06-20T21:40:24-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/class/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/class/</loc>
     <lastmod>2021-06-20T21:37:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/builder-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/builder-design-pattern/</loc>
     <lastmod>2021-06-20T21:35:44-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/bug/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/bug/</loc>
     <lastmod>2021-06-20T21:34:55-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/big-o-notation/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/big-o-notation/</loc>
     <lastmod>2021-06-20T21:33:05-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/api/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/api/</loc>
     <lastmod>2021-06-20T21:32:12-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/algorithm/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/algorithm/</loc>
     <lastmod>2021-06-20T21:30:12-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/adapter-design-pattern/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/adapter-design-pattern/</loc>
     <lastmod>2021-06-20T21:27:14-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/glossary/abstraction/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/glossary/abstraction/</loc>
     <lastmod>2021-06-20T21:24:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/c/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/c/</loc>
     <lastmod>2021-06-16T08:35:06-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/</loc>
     <lastmod>2021-06-16T08:35:06-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/swift/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/swift/</loc>
     <lastmod>2021-06-16T08:34:58-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/sql/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/sql/</loc>
     <lastmod>2021-06-16T08:34:44-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/java/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/java/</loc>
     <lastmod>2021-06-16T08:34:36-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/go/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/go/</loc>
     <lastmod>2021-06-16T08:34:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/CSS/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/CSS/</loc>
     <lastmod>2021-06-16T08:34:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/html/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/html/</loc>
     <lastmod>2021-06-16T08:34:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/python/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/python/</loc>
     <lastmod>2021-06-16T08:34:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/PHP/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/PHP/</loc>
     <lastmod>2021-06-16T08:33:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/languages/javascript/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/languages/javascript/</loc>
     <lastmod>2021-06-16T08:33:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost/categories/</loc>
+    <loc>http://danssoftwareengineeringhandbook.com/categories/</loc>
   </url>
 </urlset>

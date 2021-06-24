@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>types on Dan&#39;s Software Engineering Handbook</title>
-    <link>http://localhost/tags/types/</link>
+    <link>http://danssoftwareengineeringhandbook.com/tags/types/</link>
     <description>Recent content in types on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 21:38:04 -0700</lastBuildDate><atom:link href="http://localhost/tags/types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 21:38:04 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/tags/types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weakly Typed</title>
-      <link>http://localhost/glossary/weakly-typed/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</link>
       <pubDate>Wed, 23 Jun 2021 21:38:04 -0700</pubDate>
       
-      <guid>http://localhost/glossary/weakly-typed/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</guid>
       <description>Method of type enforcement at a language level. Specifically, weakly typed languages have few or no restrictions when performing operations on values of different types.
 This does not mean results of operations with mixed types are rational, expected, or reasonable. Often, this flexibility is actually the source of pernicious and difficult to debug issues.
 Compare to strongly typed languages.</description>
@@ -20,10 +20,10 @@ Compare to strongly typed languages.</description>
     
     <item>
       <title>Strongly Typed</title>
-      <link>http://localhost/glossary/strongly-typed/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/strongly-typed/</link>
       <pubDate>Wed, 23 Jun 2021 21:38:00 -0700</pubDate>
       
-      <guid>http://localhost/glossary/strongly-typed/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/strongly-typed/</guid>
       <description>Method of type enforcement at a language level. Specifically, strongly typed languages have restrictions when performing operations on values of different types.
 Comparisons and math operations specifically may result in exceptions when unexpected types are mixed.
 Compare to weakly typed languages.</description>
@@ -31,10 +31,10 @@ Compare to weakly typed languages.</description>
     
     <item>
       <title>Type</title>
-      <link>http://localhost/glossary/type/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/type/</link>
       <pubDate>Tue, 22 Jun 2021 20:38:04 -0700</pubDate>
       
-      <guid>http://localhost/glossary/type/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/type/</guid>
       <description>Regarding the nature of values in computer languages.
 Types are a large subcategory of computer science, which are hard to summarize succinctly.
 How a language implements types has a broad impact on the way the language works, the underlying complexity, the feature availability.</description>

@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dan&#39;s Software Engineering Handbook</title>
-    <link>http://localhost/tags/</link>
+    <link>http://danssoftwareengineeringhandbook.com/tags/</link>
     <description>Recent content in Tags on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 15:55:08 -0700</lastBuildDate><atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 15:55:08 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>types</title>
-      <link>http://localhost/tags/types/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/types/</link>
       <pubDate>Wed, 23 Jun 2021 21:38:04 -0700</pubDate>
       
-      <guid>http://localhost/tags/types/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/types/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language construct</title>
-      <link>http://localhost/tags/language-construct/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/language-construct/</link>
       <pubDate>Wed, 23 Jun 2021 16:19:05 -0700</pubDate>
       
-      <guid>http://localhost/tags/language-construct/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/language-construct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>concept</title>
-      <link>http://localhost/tags/concept/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/concept/</link>
       <pubDate>Wed, 23 Jun 2021 15:55:26 -0700</pubDate>
       
-      <guid>http://localhost/tags/concept/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/concept/</guid>
       <description></description>
     </item>
     
     <item>
       <title>developer tools</title>
-      <link>http://localhost/tags/developer-tools/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/developer-tools/</link>
       <pubDate>Tue, 22 Jun 2021 20:39:29 -0700</pubDate>
       
-      <guid>http://localhost/tags/developer-tools/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/developer-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>developer workflow</title>
-      <link>http://localhost/tags/developer-workflow/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/developer-workflow/</link>
       <pubDate>Tue, 22 Jun 2021 20:39:29 -0700</pubDate>
       
-      <guid>http://localhost/tags/developer-workflow/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/developer-workflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testing</title>
-      <link>http://localhost/tags/testing/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/testing/</link>
       <pubDate>Tue, 22 Jun 2021 20:38:19 -0700</pubDate>
       
-      <guid>http://localhost/tags/testing/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computer science</title>
-      <link>http://localhost/tags/computer-science/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/computer-science/</link>
       <pubDate>Tue, 22 Jun 2021 20:38:04 -0700</pubDate>
       
-      <guid>http://localhost/tags/computer-science/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/computer-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software development methodology</title>
-      <link>http://localhost/tags/software-development-methodology/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/software-development-methodology/</link>
       <pubDate>Tue, 22 Jun 2021 20:37:24 -0700</pubDate>
       
-      <guid>http://localhost/tags/software-development-methodology/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/software-development-methodology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>http://localhost/tags/software/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/software/</link>
       <pubDate>Tue, 22 Jun 2021 20:37:04 -0700</pubDate>
       
-      <guid>http://localhost/tags/software/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design pattern</title>
-      <link>http://localhost/tags/design-pattern/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/design-pattern/</link>
       <pubDate>Tue, 22 Jun 2021 20:36:24 -0700</pubDate>
       
-      <guid>http://localhost/tags/design-pattern/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/design-pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>acronym</title>
-      <link>http://localhost/tags/acronym/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/acronym/</link>
       <pubDate>Tue, 22 Jun 2021 20:35:41 -0700</pubDate>
       
-      <guid>http://localhost/tags/acronym/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/acronym/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOLID</title>
-      <link>http://localhost/tags/SOLID/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/SOLID/</link>
       <pubDate>Tue, 22 Jun 2021 20:35:41 -0700</pubDate>
       
-      <guid>http://localhost/tags/SOLID/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/SOLID/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design principle</title>
-      <link>http://localhost/tags/design-principle/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/design-principle/</link>
       <pubDate>Tue, 22 Jun 2021 20:34:32 -0700</pubDate>
       
-      <guid>http://localhost/tags/design-principle/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/design-principle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automation</title>
-      <link>http://localhost/tags/automation/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/automation/</link>
       <pubDate>Tue, 22 Jun 2021 20:26:22 -0700</pubDate>
       
-      <guid>http://localhost/tags/automation/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming paradigm</title>
-      <link>http://localhost/tags/programming-paradigm/</link>
+      <link>http://danssoftwareengineeringhandbook.com/tags/programming-paradigm/</link>
       <pubDate>Mon, 21 Jun 2021 08:07:35 -0700</pubDate>
       
-      <guid>http://localhost/tags/programming-paradigm/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/tags/programming-paradigm/</guid>
       <description></description>
     </item>
     

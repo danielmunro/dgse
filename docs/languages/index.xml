@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Languages on Dan&#39;s Software Engineering Handbook</title>
-    <link>http://localhost/languages/</link>
+    <link>http://danssoftwareengineeringhandbook.com/languages/</link>
     <description>Recent content in Languages on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 08:35:06 -0700</lastBuildDate><atom:link href="http://localhost/languages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 08:35:06 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/languages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
-      <link>http://localhost/languages/c/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/c/</link>
       <pubDate>Wed, 16 Jun 2021 08:35:06 -0700</pubDate>
       
-      <guid>http://localhost/languages/c/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift</title>
-      <link>http://localhost/languages/swift/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/swift/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:58 -0700</pubDate>
       
-      <guid>http://localhost/languages/swift/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/swift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sql</title>
-      <link>http://localhost/languages/sql/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/sql/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:44 -0700</pubDate>
       
-      <guid>http://localhost/languages/sql/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://localhost/languages/java/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/java/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:36 -0700</pubDate>
       
-      <guid>http://localhost/languages/java/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://localhost/languages/go/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/go/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:34 -0700</pubDate>
       
-      <guid>http://localhost/languages/go/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>http://localhost/languages/CSS/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/CSS/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:25 -0700</pubDate>
       
-      <guid>http://localhost/languages/CSS/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/CSS/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>http://localhost/languages/html/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/html/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:22 -0700</pubDate>
       
-      <guid>http://localhost/languages/html/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost/languages/python/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/python/</link>
       <pubDate>Wed, 16 Jun 2021 08:34:00 -0700</pubDate>
       
-      <guid>http://localhost/languages/python/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>http://localhost/languages/PHP/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/PHP/</link>
       <pubDate>Wed, 16 Jun 2021 08:33:56 -0700</pubDate>
       
-      <guid>http://localhost/languages/PHP/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/PHP/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>http://localhost/languages/javascript/</link>
+      <link>http://danssoftwareengineeringhandbook.com/languages/javascript/</link>
       <pubDate>Wed, 16 Jun 2021 08:33:39 -0700</pubDate>
       
-      <guid>http://localhost/languages/javascript/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/languages/javascript/</guid>
       <description>Ahoy</description>
     </item>
     

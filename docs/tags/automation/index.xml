@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automation on Dan&#39;s Software Engineering Handbook</title>
-    <link>http://localhost/tags/automation/</link>
+    <link>http://danssoftwareengineeringhandbook.com/tags/automation/</link>
     <description>Recent content in automation on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 20:26:22 -0700</lastBuildDate><atom:link href="http://localhost/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 20:26:22 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure as Code (IaC)</title>
-      <link>http://localhost/glossary/infrastructure-as-code/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/infrastructure-as-code/</link>
       <pubDate>Tue, 22 Jun 2021 20:26:22 -0700</pubDate>
       
-      <guid>http://localhost/glossary/infrastructure-as-code/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/infrastructure-as-code/</guid>
       <description>The idea is that all infrastructure (web servers, databases, ingresses, message queues, etc) for a given environment are scripted. Setup and teardown is automated and repeatable. Some examples of software used to automate infrastructure are: Terraform, Ansible, Salt to name just a few.</description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>http://localhost/glossary/devops/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/devops/</link>
       <pubDate>Mon, 21 Jun 2021 08:04:28 -0700</pubDate>
       
-      <guid>http://localhost/glossary/devops/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/devops/</guid>
       <description>Traditionally, &amp;ldquo;development&amp;rdquo; and &amp;ldquo;operations&amp;rdquo; have had largely separate responsibilities in technology organizations. However, the trend of DevOps is to combine these professions.
 One flaw identified by the separation of these responsibilities is that barriers tend to rise, slowing all efforts. The benefit from combining these job responsibilities is that they are essentially two sides to the same issue, and in that sense, the separation was a bad idea in the first place.</description>
     </item>
     
     <item>
       <title>CI/CD</title>
-      <link>http://localhost/glossary/ci-cd/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/ci-cd/</link>
       <pubDate>Mon, 21 Jun 2021 07:32:56 -0700</pubDate>
       
-      <guid>http://localhost/glossary/ci-cd/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/ci-cd/</guid>
       <description>Acronym. Continuous integration / continuous delivery.
   Concept. Defines a developer workflow whereby code changes go through an automated process after check in.
 The first step of the process is integration. Automated tests run, as well as any configured analysis tools.

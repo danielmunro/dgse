@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computer science on Dan&#39;s Software Engineering Handbook</title>
-    <link>http://localhost/tags/computer-science/</link>
+    <link>http://danssoftwareengineeringhandbook.com/tags/computer-science/</link>
     <description>Recent content in computer science on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 20:38:04 -0700</lastBuildDate><atom:link href="http://localhost/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 20:38:04 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Type</title>
-      <link>http://localhost/glossary/type/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/type/</link>
       <pubDate>Tue, 22 Jun 2021 20:38:04 -0700</pubDate>
       
-      <guid>http://localhost/glossary/type/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/type/</guid>
       <description>Regarding the nature of values in computer languages.
 Types are a large subcategory of computer science, which are hard to summarize succinctly.
 How a language implements types has a broad impact on the way the language works, the underlying complexity, the feature availability.</description>
@@ -20,10 +20,10 @@ How a language implements types has a broad impact on the way the language works
     
     <item>
       <title>Big O Notation</title>
-      <link>http://localhost/glossary/big-o-notation/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/big-o-notation/</link>
       <pubDate>Sun, 20 Jun 2021 21:33:05 -0700</pubDate>
       
-      <guid>http://localhost/glossary/big-o-notation/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/big-o-notation/</guid>
       <description>  Definition. A mathematical notation, Big O is used to classify algorithmic performance in space or time requirements. Big O is used to measure the upper bound of growth, ie, worst case scenario.
   Reference. Wikipedia.
   </description>
@@ -31,10 +31,10 @@ How a language implements types has a broad impact on the way the language works
     
     <item>
       <title>Algorithm</title>
-      <link>http://localhost/glossary/algorithm/</link>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/algorithm/</link>
       <pubDate>Sun, 20 Jun 2021 21:30:12 -0700</pubDate>
       
-      <guid>http://localhost/glossary/algorithm/</guid>
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/algorithm/</guid>
       <description>A reusable set of computer instructions in the form of code.</description>
     </item>
     
