@@ -8,6 +8,7 @@ theme = "geekdoc"
 #theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
+publishDir = "docs"
 
 # Geekdoc required configuration
 pygmentsUseClasses = true
