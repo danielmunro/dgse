@@ -7,4 +7,4 @@ tags:
 short: A flow of data from a source to one or more destinations.
 ---
 
-Concept. A flow of data from a source to one or more destinations.
+A flow of data from a source to one or more destinations.

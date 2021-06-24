@@ -2,9 +2,12 @@
 title: "Multiton Design Pattern"
 date: 2021-06-22T20:30:55-07:00
 draft: false
+tags:
+    - design pattern
+short: A class, module, or function that is used to handle creating or returning objects.
 ---
 
-[Design pattern](#design-pattern). A class, module, or function that is used to handle creating or returning objects. Multitons can take parameters, and invocation is idempotent.
+A class, module, or function that is used to handle creating or returning objects. Multitons can take parameters, and invocation is idempotent.
 
 Example:
 

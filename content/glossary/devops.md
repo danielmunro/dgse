@@ -3,8 +3,9 @@ title: "DevOps"
 date: 2021-06-21T08:04:28-07:00
 draft: false
 tags:
-- automation
-- concept
+    - automation
+    - concept
+short: "Development + operations."
 ---
 
 Traditionally, "development" and "operations" have had largely separate responsibilities in technology organizations. However, the trend of DevOps is to combine these professions.
