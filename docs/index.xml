@@ -6,52 +6,7 @@
     <description>Recent content on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jun 2021 07:21:51 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home</title>
-      <link>http://danssoftwareengineeringhandbook.com/home/</link>
-      <pubDate>Wed, 16 Jun 2021 08:10:15 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/home/</guid>
-      <description>Home page</description>
-    </item>
-    
-    <item>
-      <title>Preface</title>
-      <link>http://danssoftwareengineeringhandbook.com/introduction/preface/</link>
-      <pubDate>Wed, 16 Jun 2021 08:10:15 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/introduction/preface/</guid>
-      <description>Preface draft</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://danssoftwareengineeringhandbook.com/introduction/about/</link>
-      <pubDate>Wed, 16 Jun 2021 08:09:40 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/introduction/about/</guid>
-      <description>About    </description>
-    </item>
-    
-    <item>
-      <title>Smell</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/smell/</link>
-      <pubDate>Thu, 24 Jun 2021 07:21:51 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/smell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST API</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/rest/</link>
-      <pubDate>Thu, 24 Jun 2021 07:15:53 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/rest/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Jun 2021 21:38:04 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weakly Typed</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</link>
@@ -171,30 +126,12 @@ How a language implements types has a broad impact on the way the language works
     </item>
     
     <item>
-      <title>State Machine Design Pattern</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</link>
-      <pubDate>Tue, 22 Jun 2021 20:36:03 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SOLID</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/solid/</link>
       <pubDate>Tue, 22 Jun 2021 20:35:41 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/solid/</guid>
       <description> Programming design principles. Acronym. Stands for:   Single Responsibility Principle [entry] Open/Closed Principle [entry] Liskov Substitution Principle [entry] Interface Segregation Principle [entry] Dependency Inversion [entry]  </description>
-    </item>
-    
-    <item>
-      <title>Smoke Test</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</link>
-      <pubDate>Tue, 22 Jun 2021 20:35:21 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -573,96 +510,6 @@ Example 1 (abstraction):
  Example 2 (implementation):
  This file system writer implementation is flexible, but backend-specific.
  The first example does not mention what kind of writer the speaker is referencing. The second example, by contrast, references a specific implementation (the filesystem writer).</description>
-    </item>
-    
-    <item>
-      <title>C</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/c/</link>
-      <pubDate>Wed, 16 Jun 2021 08:35:06 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swift</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/swift/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:58 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/swift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sql</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/sql/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:44 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/java/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:36 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/go/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:34 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/CSS/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:25 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/CSS/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/html/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:22 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/python/</link>
-      <pubDate>Wed, 16 Jun 2021 08:34:00 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PHP</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/PHP/</link>
-      <pubDate>Wed, 16 Jun 2021 08:33:56 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/PHP/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>http://danssoftwareengineeringhandbook.com/languages/javascript/</link>
-      <pubDate>Wed, 16 Jun 2021 08:33:39 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/languages/javascript/</guid>
-      <description>Ahoy</description>
     </item>
     
   </channel>

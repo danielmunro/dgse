@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jun 2021 21:22:35 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/glossary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Smell</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/smell/</link>
-      <pubDate>Thu, 24 Jun 2021 07:21:51 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/smell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST API</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/rest/</link>
-      <pubDate>Thu, 24 Jun 2021 07:15:53 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Weakly Typed</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</link>
       <pubDate>Wed, 23 Jun 2021 21:38:04 -0700</pubDate>
@@ -144,30 +126,12 @@ How a language implements types has a broad impact on the way the language works
     </item>
     
     <item>
-      <title>State Machine Design Pattern</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</link>
-      <pubDate>Tue, 22 Jun 2021 20:36:03 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SOLID</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/solid/</link>
       <pubDate>Tue, 22 Jun 2021 20:35:41 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/solid/</guid>
       <description> Programming design principles. Acronym. Stands for:   Single Responsibility Principle [entry] Open/Closed Principle [entry] Liskov Substitution Principle [entry] Interface Segregation Principle [entry] Dependency Inversion [entry]  </description>
-    </item>
-    
-    <item>
-      <title>Smoke Test</title>
-      <link>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</link>
-      <pubDate>Tue, 22 Jun 2021 20:35:21 -0700</pubDate>
-      
-      <guid>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</guid>
-      <description></description>
     </item>
     
     <item>

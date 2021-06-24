@@ -2,29 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://danssoftwareengineeringhandbook.com/home/</loc>
-    <lastmod>2021-06-16T08:10:15-07:00</lastmod>
-  </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/introduction/</loc>
-    <lastmod>2021-06-16T08:10:15-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/introduction/preface/</loc>
     <lastmod>2021-06-16T08:10:15-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/</loc>
     <lastmod>2021-06-20T21:22:35-07:00</lastmod>
   </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/introduction/about/</loc>
-    <lastmod>2021-06-16T08:09:40-07:00</lastmod>
-  </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/</loc>
-    <lastmod>2021-06-24T07:21:51-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/glossary/smell/</loc>
-    <lastmod>2021-06-24T07:21:51-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/glossary/rest/</loc>
-    <lastmod>2021-06-24T07:15:53-07:00</lastmod>
+    <lastmod>2021-06-23T21:38:04-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/tags/types/</loc>
     <lastmod>2021-06-23T21:38:04-07:00</lastmod>
@@ -95,9 +80,6 @@
     <loc>http://danssoftwareengineeringhandbook.com/glossary/strategy-design-pattern/</loc>
     <lastmod>2021-06-22T20:36:24-07:00</lastmod>
   </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/glossary/state-machine-design-pattern/</loc>
-    <lastmod>2021-06-22T20:36:03-07:00</lastmod>
-  </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/tags/acronym/</loc>
     <lastmod>2021-06-22T20:35:41-07:00</lastmod>
   </url><url>
@@ -106,9 +88,6 @@
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/solid/</loc>
     <lastmod>2021-06-22T20:35:41-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/glossary/smoke-test/</loc>
-    <lastmod>2021-06-22T20:35:21-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/singleton-design-pattern/</loc>
     <lastmod>2021-06-22T20:35:00-07:00</lastmod>
@@ -232,39 +211,6 @@
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/abstraction/</loc>
     <lastmod>2021-06-20T21:24:03-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/c/</loc>
-    <lastmod>2021-06-16T08:35:06-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/</loc>
-    <lastmod>2021-06-16T08:35:06-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/swift/</loc>
-    <lastmod>2021-06-16T08:34:58-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/sql/</loc>
-    <lastmod>2021-06-16T08:34:44-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/java/</loc>
-    <lastmod>2021-06-16T08:34:36-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/go/</loc>
-    <lastmod>2021-06-16T08:34:34-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/CSS/</loc>
-    <lastmod>2021-06-16T08:34:25-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/html/</loc>
-    <lastmod>2021-06-16T08:34:22-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/python/</loc>
-    <lastmod>2021-06-16T08:34:00-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/PHP/</loc>
-    <lastmod>2021-06-16T08:33:56-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/languages/javascript/</loc>
-    <lastmod>2021-06-16T08:33:39-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/categories/</loc>
   </url>
