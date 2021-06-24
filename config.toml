@@ -1,11 +1,7 @@
 baseURL = "http://localhost"
 languageCode = "en-us"
 title = "Dan's Software Engineering Handbook"
-#theme = "geekdoc"
 theme = "geekdoc"
-#baseURL = "http://localhost"
-#title = "Geekdocs"
-#theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
 publishDir = "docs"
