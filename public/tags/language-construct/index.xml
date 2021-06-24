@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>language construct on Dan&#39;s Software Engineering Handbook</title>
+    <link>http://localhost/tags/language-construct/</link>
+    <description>Recent content in language construct on Dan&#39;s Software Engineering Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 16:19:05 -0700</lastBuildDate><atom:link href="http://localhost/tags/language-construct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Function</title>
+      <link>http://localhost/glossary/function/</link>
+      <pubDate>Wed, 23 Jun 2021 16:19:05 -0700</pubDate>
+      
+      <guid>http://localhost/glossary/function/</guid>
+      <description>A series of instructions that are grouped and callable by a name.</description>
+    </item>
+    
+    <item>
+      <title>Method</title>
+      <link>http://localhost/glossary/method/</link>
+      <pubDate>Tue, 22 Jun 2021 20:30:16 -0700</pubDate>
+      
+      <guid>http://localhost/glossary/method/</guid>
+      <description>A function that has been bound to a class instance. Example:
+Calling a function:
+myFunction() // function Calling a method:
+class MyClass { fun myFunction() {} } instance = new MyClass() instance.myFunction() </description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>http://localhost/glossary/class/</link>
+      <pubDate>Sun, 20 Jun 2021 21:37:46 -0700</pubDate>
+      
+      <guid>http://localhost/glossary/class/</guid>
+      <description>Related to object-oriented programming. A class is a language construct that allows binding data to methods.</description>
+    </item>
+    
+  </channel>
+</rss>

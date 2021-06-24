@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developer tools on Dan&#39;s Software Engineering Handbook</title>
+    <link>http://localhost/tags/developer-tools/</link>
+    <description>Recent content in developer tools on Dan&#39;s Software Engineering Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 20:39:29 -0700</lastBuildDate><atom:link href="http://localhost/tags/developer-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Control System (VCS)</title>
+      <link>http://localhost/glossary/version-control-system/</link>
+      <pubDate>Tue, 22 Jun 2021 20:39:29 -0700</pubDate>
+      
+      <guid>http://localhost/glossary/version-control-system/</guid>
+      <description>Development tool. Used to track code changes. Modern and less-modern examples include:
+ git mercurial subversion  </description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost/glossary/terminal/</link>
+      <pubDate>Tue, 22 Jun 2021 20:37:04 -0700</pubDate>
+      
+      <guid>http://localhost/glossary/terminal/</guid>
+      <description>Software. A program, allows interacting with a computer via the command line interface (CLI).</description>
+    </item>
+    
+  </channel>
+</rss>
