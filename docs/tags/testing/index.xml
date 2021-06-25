@@ -24,7 +24,8 @@ Why Not Lower Level Testing?    The reason why testing does not occur below this
       <pubDate>Tue, 22 Jun 2021 20:27:18 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/integration-test/</guid>
-      <description>Test that encompasses more components than a unit test. There is no hard definition for what makes a unit test versus an integration test.</description>
+      <description>Test that encompasses more components than a unit test.
+There is no hard definition for what makes a unit test versus an integration test. However, one of the primary goals of an integration test is to test how the different components or services interact with each other.</description>
     </item>
     
   </channel>

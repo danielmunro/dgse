@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dan&#39;s Software Engineering Handbook</title>
+    <title>Home on Dan&#39;s Software Engineering Handbook</title>
     <link>http://danssoftwareengineeringhandbook.com/</link>
-    <description>Recent content on Dan&#39;s Software Engineering Handbook</description>
+    <description>Recent content in Home on Dan&#39;s Software Engineering Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jun 2021 21:38:04 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 08:10:15 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weakly Typed</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</link>
@@ -255,7 +255,8 @@ class MyClass { fun myFunction() {} } instance = new MyClass() instance.myFuncti
       <pubDate>Tue, 22 Jun 2021 20:27:18 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/integration-test/</guid>
-      <description>Test that encompasses more components than a unit test. There is no hard definition for what makes a unit test versus an integration test.</description>
+      <description>Test that encompasses more components than a unit test.
+There is no hard definition for what makes a unit test versus an integration test. However, one of the primary goals of an integration test is to test how the different components or services interact with each other.</description>
     </item>
     
     <item>
@@ -273,9 +274,8 @@ class MyClass { fun myFunction() {} } instance = new MyClass() instance.myFuncti
       <pubDate>Mon, 21 Jun 2021 08:07:57 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/ide/</guid>
-      <description>  Acronym. Integrated development environment.
-  Software. For use by programmers. Includes a combination of tools such as a text editor and language compiler. Often highly extensible and customizable.
-  </description>
+      <description>Acronym: integrated development environment.
+A tool, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence &amp;ldquo;integrated&amp;rdquo;). Often highly extensible and customizable.</description>
     </item>
     
     <item>

@@ -22,9 +22,8 @@
       <pubDate>Mon, 21 Jun 2021 08:07:57 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/ide/</guid>
-      <description>  Acronym. Integrated development environment.
-  Software. For use by programmers. Includes a combination of tools such as a text editor and language compiler. Often highly extensible and customizable.
-  </description>
+      <description>Acronym: integrated development environment.
+A tool, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence &amp;ldquo;integrated&amp;rdquo;). Often highly extensible and customizable.</description>
     </item>
     
     <item>

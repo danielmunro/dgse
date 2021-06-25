@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://danssoftwareengineeringhandbook.com/introduction/</loc>
-    <lastmod>2021-06-16T08:10:15-07:00</lastmod>
-  </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/</loc>
     <lastmod>2021-06-20T21:22:35-07:00</lastmod>
-  </url><url>
-    <loc>http://danssoftwareengineeringhandbook.com/</loc>
-    <lastmod>2021-06-23T21:38:04-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/tags/types/</loc>
     <lastmod>2021-06-23T21:38:04-07:00</lastmod>
@@ -211,6 +205,9 @@
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/glossary/abstraction/</loc>
     <lastmod>2021-06-20T21:24:03-07:00</lastmod>
+  </url><url>
+    <loc>http://danssoftwareengineeringhandbook.com/</loc>
+    <lastmod>2021-06-16T08:10:15-07:00</lastmod>
   </url><url>
     <loc>http://danssoftwareengineeringhandbook.com/categories/</loc>
   </url>

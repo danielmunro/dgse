@@ -7,7 +7,7 @@ tags:
 short: Integrated development environment.
 ---
 
-1. Acronym. Integrated development environment.
+Acronym: integrated development environment.
 
-1. Software. For use by programmers. Includes a combination of tools such as a text editor and language compiler. Often highly extensible and customizable.
+A tool, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence "integrated"). Often highly extensible and customizable.
 
