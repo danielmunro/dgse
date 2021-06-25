@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jun 2021 21:22:35 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/glossary/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Database</title>
+      <link>http://danssoftwareengineeringhandbook.com/glossary/database/</link>
+      <pubDate>Fri, 25 Jun 2021 08:01:36 -0700</pubDate>
+      
+      <guid>http://danssoftwareengineeringhandbook.com/glossary/database/</guid>
+      <description>A program that specializes in efficient data storage and retrieval. There are a large variety of databases, which serve different purposes. Choosing the right database depends on many factors, such as types and formats of information being stored, whether or not the data is structured, and the overall relatability of data.
+Some of the most popular database types are:
+ relational document graph  A key differentiator from a file system is that a database deals with structured, related, index-able data.</description>
+    </item>
+    
+    <item>
       <title>Weakly Typed</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/weakly-typed/</link>
       <pubDate>Wed, 23 Jun 2021 21:38:04 -0700</pubDate>
