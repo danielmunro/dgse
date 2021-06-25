@@ -278,7 +278,9 @@ There is no hard definition for what makes a unit test versus an integration tes
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/ide/</guid>
       <description>Acronym: integrated development environment.
-A tool, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence &amp;ldquo;integrated&amp;rdquo;). Often highly extensible and customizable.</description>
+A software program, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence &amp;ldquo;integrated&amp;rdquo;). Often highly extensible and customizable.
+Examples of IDEs include:
+ JetBrains IDEs Microsoft Visual Studio Eclipse  </description>
     </item>
     
     <item>

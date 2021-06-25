@@ -7,7 +7,7 @@ tags:
 short: A function that has been bound to a class instance.
 ---
 
-A function that has been bound to a class instance. Example:
+A [function](/glossary/function) that has been bound to a class instance. Example:
 
 Calling a function:
 

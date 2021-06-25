@@ -9,5 +9,10 @@ short: Integrated development environment.
 
 Acronym: integrated development environment.
 
-A tool, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence "integrated"). Often highly extensible and customizable.
+A software program, used by programmers. Includes a combination of tools such as a text editor and language compiler (hence "integrated"). Often highly extensible and customizable.
 
+Examples of IDEs include:
+
+* [JetBrains IDEs](https://www.jetbrains.com/products/#type=ide)
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+* [Eclipse](https://www.eclipse.org/)
