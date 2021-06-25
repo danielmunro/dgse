@@ -5,6 +5,7 @@ draft: false
 tags:
     - computer science
     - types
+    - language construct
 short: Regarding the nature of values in computer languages.
 ---
 

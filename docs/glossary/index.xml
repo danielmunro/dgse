@@ -35,7 +35,10 @@ Compare to weakly typed languages.</description>
       <pubDate>Wed, 23 Jun 2021 16:19:05 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/function/</guid>
-      <description>A series of instructions that are grouped and callable by a name.</description>
+      <description>A series of instructions that are grouped and callable by a name. The primary components of a function are its:
+ name parameter(s) return value  These three things together are called a function&amp;rsquo;s signature.
+Example    Below is an example Javascript function that adds two numbers:
+1 2 3  function addValues(a, b) { return a + b; }   Here is an example Kotlin function that finds the smallest value in a list:</description>
     </item>
     
     <item>

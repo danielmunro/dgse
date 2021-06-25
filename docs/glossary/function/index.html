@@ -10,7 +10,10 @@
 
 
 
-    <meta name="description" content="A series of instructions that are grouped and callable by a name.">
+    <meta name="description" content="A series of instructions that are grouped and callable by a name. The primary components of a function are its:
+ name parameter(s) return value  These three things together are called a function&rsquo;s signature.
+Example    Below is an example Javascript function that adds two numbers:
+1 2 3  function addValues(a, b) { return a &#43; b; }   Here is an example Kotlin function that finds the smallest value in a list:">
 
 
 
@@ -1402,7 +1405,66 @@ if (!doNotTrack) {
         </div>
     </header>
     <div>
-        <p>A series of instructions that are grouped and callable by a name.</p>
+        <p>A series of instructions that are grouped and callable by a name. The primary components of a function are its:</p>
+<ul>
+<li>name</li>
+<li>parameter(s)</li>
+<li>return value</li>
+</ul>
+<p>These three things together are called a function&rsquo;s <em>signature</em>.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="example">
+        Example
+        <a data-clipboard-text="http://danssoftwareengineeringhandbook.com/glossary/function/#example" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Example" href="#example">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Below is an example Javascript function that adds two numbers:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">addValues</span><span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">a</span> <span class="o">+</span> <span class="nx">b</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Here is an example Kotlin function that finds the smallest value in a list:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-kotlin" data-lang="kotlin"><span class="k">fun</span> <span class="nf">smallestValue</span><span class="p">(</span><span class="n">value</span><span class="p">:</span> <span class="n">List</span><span class="p">&lt;</span><span class="n">Int</span><span class="p">&gt;):</span> <span class="n">Int</span> <span class="p">{</span>
+    <span class="k">var</span> <span class="py">smallest</span> <span class="p">=</span> <span class="n">value</span><span class="p">.</span><span class="n">first</span><span class="p">()</span>
+    <span class="n">value</span><span class="p">.</span><span class="n">forEach</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="k">it</span> <span class="p">&lt;</span> <span class="n">smallest</span><span class="p">)</span> <span class="p">{</span>
+            <span class="n">smallest</span> <span class="p">=</span> <span class="k">it</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="n">smallest</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="gdoc-page__anchorwrap">
+    <h2 id="a-note-on-go">
+        A Note on Go
+        <a data-clipboard-text="http://danssoftwareengineeringhandbook.com/glossary/function/#a-note-on-go" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor A Note on Go" href="#a-note-on-go">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Go, the programming language created by Google, permits multiple return values.</p>
 
 
     </div>
