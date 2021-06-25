@@ -5,6 +5,8 @@ draft: false
 tags:
     - types
 short: Method of type enforcement at a language level.
+resources:
+    - { url: "https://archive.org/details/wat_destroyallsoftware", name: WAT }
 ---
 
 Method of type enforcement at a language level. Specifically, weakly typed languages have few or no restrictions when performing operations on values of different types.

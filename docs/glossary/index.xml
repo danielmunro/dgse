@@ -24,7 +24,7 @@ Compare to strongly typed languages.</description>
       <pubDate>Wed, 23 Jun 2021 21:38:00 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/strongly-typed/</guid>
-      <description>Method of type enforcement at a language level. Specifically, strongly typed languages have restrictions when performing operations on values of different types.
+      <description>Method of type enforcement at a language level. Strongly typed languages have restrictions when performing operations on values of different types.
 Comparisons and math operations specifically may result in exceptions when unexpected types are mixed.
 Compare to weakly typed languages.</description>
     </item>

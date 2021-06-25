@@ -7,7 +7,7 @@ tags:
 short: Method of type enforcement at a language level.
 ---
 
-Method of type enforcement at a language level. Specifically, strongly typed languages have restrictions when performing operations on values of different types.
+Method of type enforcement at a language level. Strongly typed languages have restrictions when performing operations on values of different types.
 
 Comparisons and math operations specifically may result in exceptions when unexpected types are mixed.
 
