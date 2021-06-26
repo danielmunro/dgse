@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Machine Learning (ML)"
 date: 2021-06-25T19:22:38-07:00
 draft: false
 resources:
@@ -11,4 +11,6 @@ tags:
 short: A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms.
 ---
 
-A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms. The goal of machine learning is for computers to figure out how to solve problems without explicit programming.
+A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to penalty, weighting, and layering mechanisms. One main goal of ML is to provide computers with the means to solve problems without requiring explicit code to be written to do so. 
+
+There are a large variety of  ML algorithms, each with different benefits and drawbacks. Some common ways to measure ML algorithms are their: precision, accuracy, recall, and learning rate. Depending on the data and the problem at hand, data scientists will choose an algorithm and tweak it, often coming up with a number of iterations of an ML algorithm, before finalizing on one model. 

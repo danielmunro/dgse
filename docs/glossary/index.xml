@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jun 2021 21:22:35 -0700</lastBuildDate><atom:link href="http://danssoftwareengineeringhandbook.com/glossary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine Learning</title>
+      <title>Machine Learning (ML)</title>
       <link>http://danssoftwareengineeringhandbook.com/glossary/machine-learning/</link>
       <pubDate>Fri, 25 Jun 2021 19:22:38 -0700</pubDate>
       
       <guid>http://danssoftwareengineeringhandbook.com/glossary/machine-learning/</guid>
-      <description>A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms. The goal of machine learning is for computers to figure out how to solve problems without explicit programming.</description>
+      <description>A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to penalty, weighting, and layering mechanisms. One main goal of ML is to provide computers with the means to solve problems without requiring explicit code to be written to do so.
+There are a large variety of ML algorithms, each with different benefits and drawbacks. Some common ways to measure ML algorithms are their: precision, accuracy, recall, and learning rate.</description>
     </item>
     
     <item>
