@@ -11,4 +11,4 @@ tags:
 short: A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms.
 ---
 
-A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms.
+A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms. The goal of machine learning is for computers to figure out how to solve problems without explicit programming.
