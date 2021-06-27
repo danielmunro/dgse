@@ -8,10 +8,10 @@ tags:
 short: Programming design principles.
 ---
 
-1. Programming design principles. Acronym. Stands for:
+Programming design principles. Acronym:
 
-* Single Responsibility Principle [[entry](#single-responsibility-principle)]
-* Open/Closed Principle [[entry](#openclosed-principle)]
-* Liskov Substitution Principle [[entry](#liskov-substitution-principle)]
-* Interface Segregation Principle [[entry](#interface-segregation-principle)]
-* Dependency Inversion [[entry](#dependency-inversion)]
+* [Single Responsibility Principle](#single-responsibility-principle)
+* [Open/Closed Principle](#openclosed-principle)
+* [Liskov Substitution Principle](#liskov-substitution-principle)
+* [Interface Segregation Principle](#interface-segregation-principle)
+* [Dependency Inversion](#dependency-inversion)
