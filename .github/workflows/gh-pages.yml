@@ -14,6 +14,9 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Setup template
+        run: cd themes/geekdoc && npm i && npx gulp default
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
