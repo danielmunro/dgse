@@ -3,7 +3,8 @@ title: "Method"
 date: 2021-06-22T20:30:16-07:00
 draft: false
 tags:
-  - language construct
+    - language construct
+    - oop
 short: A function that has been bound to a class instance.
 ---
 

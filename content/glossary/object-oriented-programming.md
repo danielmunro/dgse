@@ -5,6 +5,7 @@ draft: false
 tags:
     - programming paradigm
     - concept
+    - oop
 short: Language-level support for binding data to methods.
 ---
 
