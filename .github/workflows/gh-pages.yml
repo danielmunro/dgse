@@ -23,7 +23,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify --verbose --debug
+        run: hugo --config config.toml --minify --verbose --debug
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
