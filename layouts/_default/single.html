@@ -15,8 +15,19 @@
     <div>
         {{ partial "content" . }}
     </div>
+    <!--
+    {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ with $related }}
+    <h3>See Also</h3>
+    <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+    -->
     {{ if (.GetTerms "tags") }}
-    <div>
+    <div class="tags">
         <h2>Tags</h2>
         <ul>
             {{ range (.GetTerms "tags") }}
@@ -34,6 +45,7 @@
             {{ end }}
         </ul>
     </div>
+    {{ partial "feedback" . }}
     {{ end }}
 </article>
 {{ end }}

@@ -35,3 +35,4 @@ disablePathToLower = true
 
 [params]
     custom_css = ["overrides.css"]
+    feedback_email = "feedback-handbook@tutanota.com"
