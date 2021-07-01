@@ -6,7 +6,6 @@ resources:
     - { url: https://en.wikipedia.org/wiki/Compiled_language, name: Wikipedia }
 ---
 
-Type of programming language. Contrast to a [dynamic language](#dynamic-language). Compiled languages are identified by the fact that the target for code instructions is a compiler and not an interpreter.
+Type of programming language. Contrast to a [dynamic language](/glossary/dynamic-language).
 
-The primary difference between a compiler and an interpreter is that a compiler produces machine-readable code directly. 
-
+Compiled languages are identified by the fact that the target for code is a compiler and not an interpreter. What this means, practically, is that at runtime, the program runs as compiled machine code. There is no interpreter layer.
