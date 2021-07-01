@@ -10,4 +10,4 @@ Type of programming language. Contrast to a [compiled language](/glossary/compil
 
 Dynamic programming languages are programming languages where code is interpreted at runtime. The interpreter is a layer of software that runs in between the code written by a software developer and the machine running the code. 
 
-Because of this additional layer, dynamic languages tend to be slower than compiled ones. However, the benefits include typically a more flexible [type system](/glossary/type) and syntax.
+Because of this additional layer, dynamic languages tend to be slower than compiled ones, in terms of execution time and memory usage. However, the benefits include typically a more flexible [type system](/glossary/type) and syntax.
