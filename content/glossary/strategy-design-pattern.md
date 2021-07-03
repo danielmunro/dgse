@@ -4,7 +4,6 @@ date: 2021-06-22T20:36:24-07:00
 draft: false
 tags:
     - design pattern
-    - concept
 short: Instead of implementing a single algorithm directly, a strategy design pattern allows for multiple algorithms.
 resources:
     - { url: https://en.wikipedia.org/wiki/Strategy_pattern, name: "Wikipedia" }

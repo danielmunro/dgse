@@ -7,7 +7,9 @@ resources:
     - { url: https://en.wikipedia.org/wiki/Machine_learning, name: Wikipedia }
     - { url: https://developers.google.com/machine-learning/crash-course, name: "Google: Machine learning crash course" }
 tags:
-    - concept
+    - statistics
+    - ML
+    - data science
 short: A class of algorithms and software tools that rely on various statistical and mathematical models, in addition to learning, penalty, and weighting mechanisms.
 ---
 

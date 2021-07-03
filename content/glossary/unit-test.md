@@ -3,8 +3,8 @@ title: "Unit Test"
 date: 2021-06-22T20:38:19-07:00
 draft: false
 tags:
-    - concept
     - testing
+short: A test that exercises the smallest unit of publicly exposed code.
 ---
 
 A test that exercises the smallest unit of publicly exposed code. 
