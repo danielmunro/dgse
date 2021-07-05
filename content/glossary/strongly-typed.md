@@ -4,6 +4,7 @@ date: 2021-06-23T21:38:00-07:00
 draft: false
 tags:
     - types
+    - language design
 short: Method of type enforcement at a language level.
 ---
 

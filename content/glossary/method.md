@@ -5,6 +5,7 @@ draft: false
 tags:
     - language construct
     - oop
+    - language design
 short: A function that has been bound to a class instance.
 ---
 

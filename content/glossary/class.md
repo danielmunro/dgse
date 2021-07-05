@@ -4,6 +4,7 @@ date: 2021-06-20T21:37:46-07:00
 draft: false
 tags:
     - language construct
+    - language design
     - oop
 short: Related to object-oriented programming. A way to bind data to actions.
 resources:
