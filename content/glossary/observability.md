@@ -2,6 +2,11 @@
 title: "Observability"
 date: 2021-07-05T13:03:16-07:00
 draft: false
+tags:
+   - concept
+resources:
+   - { url: https://www.splunk.com/en_us/data-insider/what-is-observability.html, name: Splunk }
+   - { url: https://www.dynatrace.com/news/blog/what-is-observability/, name: Dynatrace }
 ---
 
 Qualities of a platform that lend to its understandability. Such qualities are:
