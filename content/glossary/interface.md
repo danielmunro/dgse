@@ -29,19 +29,13 @@ fun handleLoopUpdate(updates: List<Update>, logger: Logger) {
 With the two code samples above, the below hypothetical writers are possible:
 
 ```kotlin
-handleLoopUpdates(DebugPrintLogger())
-```
+handleLoopUpdates(listOf(..), DebugPrintLogger())
 
-```kotlin
-handleLoopUpdates(LocalFileLogger())
-```
+handleLoopUpdates(listOf(..), LocalFileLogger())
 
-```kotlin
-handleLoopUpdates(RemoteServiceLogger())
-```
+handleLoopUpdates(listOf(..), RemoteServiceLogger())
 
-```kotlin
-handleLoopUpdates(OhShitLogger())
+handleLoopUpdates(listOf(..), OhShitLogger())
 ```
 
 Note how `handleLoopUpdates` does not know or care what kind of logger it receives. The only thing `handleLoopUpdates` knows about is the `Logger` interface, and what the interface defines.

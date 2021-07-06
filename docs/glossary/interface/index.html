@@ -20,12 +20,18 @@ Dan's Software Engineering Handbook</span></a>
     <span class=p>}</span>   
 <span class=p>}</span>
 </code></pre></td></tr></table></div></div><p>With the two code samples above, the below hypothetical writers are possible:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt>1
-</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>DebugPrintLogger</span><span class=p>())</span>
-</code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt>1
-</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>LocalFileLogger</span><span class=p>())</span>
-</code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt>1
-</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>RemoteServiceLogger</span><span class=p>())</span>
-</code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt>1
-</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>OhShitLogger</span><span class=p>())</span>
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>listOf</span><span class=p>(</span><span class=o>..</span><span class=p>),</span> <span class=n>DebugPrintLogger</span><span class=p>())</span>
+
+<span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>listOf</span><span class=p>(</span><span class=o>..</span><span class=p>),</span> <span class=n>LocalFileLogger</span><span class=p>())</span>
+
+<span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>listOf</span><span class=p>(</span><span class=o>..</span><span class=p>),</span> <span class=n>RemoteServiceLogger</span><span class=p>())</span>
+
+<span class=n>handleLoopUpdates</span><span class=p>(</span><span class=n>listOf</span><span class=p>(</span><span class=o>..</span><span class=p>),</span> <span class=n>OhShitLogger</span><span class=p>())</span>
 </code></pre></td></tr></table></div></div><p>Note how <code>handleLoopUpdates</code> does not know or care what kind of logger it receives. The only thing <code>handleLoopUpdates</code> knows about is the <code>Logger</code> interface, and what the interface defines.</p></div><div><h2>Further Reading</h2><ul><li><a href=https://en.wikipedia.org/wiki/Interface_%28computing%29>Wikipedia</a></li></ul></div><hr><a href="mailto:feedback-handbook@tutanota.com?subject=Feedback: Interface" class=gdoc-footer__link>Email</a> feedback &mdash;
 made with love&nbsp;<svg class="icon gdoc_heart"><use xlink:href="#gdoc_heart"/></svg></article><div class="gdoc-page__footer flex flex-wrap justify-between"></div></div></main><footer class=gdoc-footer><div class="container flex flex-wrap"><span class=gdoc-footer__item>&copy; <script>document.write((new Date).getFullYear())</script>Dan's Software Engineering Handbook &mdash; <a href=https://github.com/danielmunro/dgse>Source</a></span></div></footer></div><script defer src=/js/en.search.min.3efcc0a3fe47567f654d89ea65f5dac4d2f1cf6dfb5af44d52e35181369b7901.js></script><script defer src=/js/clipboard-27784b7376.min.js></script><script defer src=/js/clipboard-loader-f0b5fbd5f6.min.js></script></body></html>
