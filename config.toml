@@ -1,4 +1,4 @@
-baseURL = "http://danssoftwareengineeringhandbook.com"
+baseURL = "http://sehandbook.com"
 languageCode = "en-us"
 title = "Dan's Software Engineering Handbook"
 theme = "geekdoc"

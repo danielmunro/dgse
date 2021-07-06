@@ -1,5 +1,5 @@
 ---
-title: "Higher Order Functions"
+title: "Higher Order Function"
 date: 2021-07-02T19:55:31-07:00
 draft: false
 tags:
