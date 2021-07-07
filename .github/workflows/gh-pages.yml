@@ -13,6 +13,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+          ref: docs
 
       - name: Setup template
         run: cd themes/geekdoc && npm i && npx gulp default
