@@ -16,7 +16,7 @@ jobs:
           ref: gh-pages
 
       - name: Rebase main
-        run: git rebase main
+        run: git rebase origin/main
 
       - name: Setup template
         run: cd themes/geekdoc && npm i && npx gulp default
