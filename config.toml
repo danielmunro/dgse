@@ -5,7 +5,7 @@ theme = "geekdoc"
 googleAnalytics = "G-Y0GC5Z5RJL"
 
 pluralizeListTitles = false
-publishDir = "docs"
+publishDir = "public"
 
 # Geekdoc required configuration
 pygmentsUseClasses = true
