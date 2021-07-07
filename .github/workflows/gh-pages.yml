@@ -5,9 +5,6 @@ on:
     branches:
       - main
 
-env:
-  TAG_ID: "v$GITHUB_RUN_NUMBER"
-
 jobs:
   deploy:
     runs-on: ubuntu-18.04
@@ -66,4 +63,4 @@ jobs:
           # Default: '--no-rebase'
           # pull_strategy: '--no-rebase'
 
-          tag: ${{ env.TAG_ID }}
+          tag: ${{ GITHUB_RUN_NUMBER }}
