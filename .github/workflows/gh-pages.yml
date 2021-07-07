@@ -63,4 +63,4 @@ jobs:
           # Default: '--no-rebase'
           # pull_strategy: '--no-rebase'
 
-          tag: ${{ GITHUB_RUN_NUMBER }}
+          tag: v${{ github.run_number }}
