@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  TAG_ID: v${GITHUB_RUN_NUMBER}
+  TAG_ID: v${{ GITHUB_RUN_NUMBER }}
 
 jobs:
   deploy:
