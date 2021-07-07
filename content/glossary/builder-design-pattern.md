@@ -7,4 +7,4 @@ tags:
 short: A class, module, or other language construct for specifying how to configure and build an object.
 ---
 
-1. Definition. A class, module, or other language construct for specifying how to configure and build an object before the actual object instantiation.
+A [class](/glossary/class), module, or other language construct for specifying how to configure and build an object before the actual object instantiation.
