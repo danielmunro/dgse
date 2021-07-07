@@ -19,7 +19,7 @@ jobs:
         run: git config user.email "dan@danmunro.com" && git config user.name "Github Actions Runner"
 
       - name: Rebase main
-        run: git rebase origin/main
+        run: git rebase origin/main && git pull --rebase
 
       - name: Setup template
         run: cd themes/geekdoc && npm i && npx gulp default
