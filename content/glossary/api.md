@@ -10,8 +10,6 @@ resources:
     - { url: https://en.wikipedia.org/wiki/API, name: Wikipedia }
 ---
 
-1. Acronym. Application programming interface.
+Acronym: application programming interface.
 
-1. Concept. Something that provides functionality, which can be programmed against.
-
-1. A [library](#library), module, or service that can be integrated into code.
+A [library](#library), module, or service that can be integrated into code.

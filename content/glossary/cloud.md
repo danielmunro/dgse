@@ -13,4 +13,4 @@ resources:
 
 1. Someone else's computer.
 
-1. Platform. Virtualized services, used to build products and services on top of.
+1. [Platform](/glossary/platform). Virtualized services, used to build products and services on top of.
