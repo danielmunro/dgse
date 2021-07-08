@@ -7,6 +7,6 @@ tags:
 short: An encapsulation of code.
 ---
 
-An encapsulation of code, which contains [classes](/glossary/class), [functions](/glossary/function), constants, or other language constructs. 
+An encapsulation of code, which contains [classes](/glossary/class), [functions](/glossary/function), constants, or other language constructs. Some languages have a concept of a module, but not all do. 
 
-Some languages have a concept of a module, but not all do. Namespaces are a popular alternative. Both ideas relate to grouping similar functionality together for organizational or logical purposes.
+If a programming language does not have modules, typically it will at least support namespaces. Both ideas relate to grouping similar functionality together for organizational or logical purposes.
