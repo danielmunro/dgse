@@ -56,6 +56,7 @@ class RequestedPaymentProcessingState(private val userService: UserService) : Pa
         if (!userService.userLoggedIn(paymentRequest)) {
             return Status.Error
         }
+        // do some more logic
         ..
     }
 }
@@ -74,6 +75,7 @@ class ProcessingPaymentProcessingState(private val paymentGateway: PaymentGatewa
 class ApprovedPaymentProcessingState : PaymentProcessingState {
     fun process(paymentRequest: PaymentRequest): Status {
         // mark a database record as approved
+        ..
         return Status.Completed
     }
 }
@@ -91,6 +93,7 @@ class DeclinedPaymentProcessingState : PaymentProcessingState {
 class ErrorPaymentProcessingState : PaymentProcessingState {
     fun process(paymentRequest: PaymentRequest): Status {
         // mark a database record as error
+        ..
         return Status.Completed
     }
 }
