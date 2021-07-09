@@ -8,7 +8,7 @@ resources:
 tags:
     - concept
     - functional programming
-short: Function currying is a functional design process.
+short: Functional design process.
 ---
 
 Function currying is a functional design process. A [function](/glossary/function) that takes multiple arguments are refactored into a function that takes a single argument. For example:
