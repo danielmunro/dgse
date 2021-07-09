@@ -8,6 +8,7 @@ resources:
     - { url: https://sourcemaking.com/design_patterns/state, name: "Source Making" }
 tags:
     - design pattern
+short: A design pattern regarding application states and transitions.
 ---
 
 A [design pattern](/glossary/design-pattern) with a few conceptual aspects:
