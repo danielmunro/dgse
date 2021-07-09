@@ -159,7 +159,13 @@ Dan's Software Engineering Handbook</span></a>
 </span><span class=lnt>10
 </span><span class=lnt>11
 </span><span class=lnt>12
-</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=k>class</span> <span class=nc>PaymentProcessingService</span><span class=p>(</span><span class=k>private</span> <span class=k>val</span> <span class=py>userService</span><span class=p>,</span> <span class=k>private</span> <span class=k>val</span> <span class=py>paymentGateway</span><span class=p>:</span> <span class=n>PaymentGateway</span><span class=p>)</span>  <span class=p>{</span>
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=k>class</span> <span class=nc>PaymentProcessingService</span><span class=p>(</span>
+    <span class=k>private</span> <span class=k>val</span> <span class=py>userService</span><span class=p>:</span> <span class=n>UserService</span><span class=p>,</span> 
+    <span class=k>private</span> <span class=k>val</span> <span class=py>paymentGateway</span><span class=p>:</span> <span class=n>PaymentGateway</span><span class=p>,</span>
+<span class=p>)</span>  <span class=p>{</span>
     <span class=k>fun</span> <span class=nf>processPayment</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>:</span> <span class=n>PaymentRequest</span><span class=p>)</span> <span class=p>{</span>
         <span class=k>when</span> <span class=p>(</span><span class=n>paymentRequest</span><span class=p>.</span><span class=n>getStatus</span><span class=p>())</span> <span class=p>{</span>
             <span class=n>Status</span><span class=p>.</span><span class=n>Requested</span> <span class=o>-&gt;</span> <span class=n>RequestedPaymentProcessingState</span><span class=p>(</span><span class=n>userService</span><span class=p>).</span><span class=n>process</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>)</span>
