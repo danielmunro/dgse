@@ -113,11 +113,11 @@ class PaymentProcessingService(private val userService, private val paymentGatew
     fun processPayment(paymentRequest: PaymentRequest) {
         when (paymentRequest.getStatus()) {
             Status.Requested -> RequestedPaymentProcessingState(userService).process(paymentRequest)
-            Processing -> ProcessingPaymentProcessingState(paymentGateway).process(paymentRequest)
-            Approved -> ApprovedPaymentProcessingState().process(paymentRequest)
-            Declined -> DeclinedPaymentProcessingState().process(paymentRequest)
-            Error -> ErrorPaymentProcessingState().process(paymentRequest)
-            Completed -> CompletedProcessingState().process(paymentRequest)
+            Status.Processing -> ProcessingPaymentProcessingState(paymentGateway).process(paymentRequest)
+            Status.Approved -> ApprovedPaymentProcessingState().process(paymentRequest)
+            Status.Declined -> DeclinedPaymentProcessingState().process(paymentRequest)
+            Status.Error -> ErrorPaymentProcessingState().process(paymentRequest)
+            Status.Completed -> CompletedProcessingState().process(paymentRequest)
         }
     }
 }
