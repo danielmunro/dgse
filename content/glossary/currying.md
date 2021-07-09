@@ -1,6 +1,6 @@
 ---
 title: "Currying"
-date: 2021-07-08T12:55:07-07:00
+date: 2021-07-08T00:55:07-07:00
 draft: false
 resources:
     - { url: https://stackoverflow.com/questions/36314/what-is-currying, name: "Stack Overflow" }
