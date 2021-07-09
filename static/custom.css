@@ -55,3 +55,7 @@ div.tags li a:hover {
 hr {
     margin: 20px 0;
 }
+
+ul li.mostRecent {
+    list-style: none;
+}

@@ -1,4 +1,7 @@
 <h2>Latest Additions</h2>
 {{ range where .Site.Pages.ByDate.Reverse "Section" "glossary" | first 3 }}
-<li><a href="{{ .Permalink }}">{{ .Title }}</a><br /><span class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></li>
+<p>
+    <a href="{{ .Permalink }}">{{ .Title }}</a><br />
+    {{ .Params.short }}<br />
+</p>
 {{ end }}
