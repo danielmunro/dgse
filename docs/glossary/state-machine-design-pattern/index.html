@@ -90,12 +90,16 @@ Dan's Software Engineering Handbook</span></a>
 </span><span class=lnt>49
 </span><span class=lnt>50
 </span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
 </span></code></pre></td><td class=lntd><pre class=chroma><code class=language-kotlin data-lang=kotlin><span class=k>class</span> <span class=nc>RequestedPaymentProcessingState</span><span class=p>(</span><span class=k>private</span> <span class=k>val</span> <span class=py>userService</span><span class=p>:</span> <span class=n>UserService</span><span class=p>)</span> <span class=p>:</span> <span class=n>PaymentProcessingState</span> <span class=p>{</span>
     <span class=k>fun</span> <span class=nf>process</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>:</span> <span class=n>PaymentRequest</span><span class=p>):</span> <span class=n>Status</span> <span class=p>{</span>
         <span class=k>if</span> <span class=p>(!</span><span class=n>userService</span><span class=p>.</span><span class=n>userLoggedIn</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>))</span> <span class=p>{</span>
             <span class=k>return</span> <span class=n>Status</span><span class=p>.</span><span class=n>Error</span>
         <span class=p>}</span>
-        <span class=o>..</span>
+        <span class=c1>// do some more logic
+</span><span class=c1></span>        <span class=o>..</span>
     <span class=p>}</span>
 <span class=p>}</span>
 
@@ -113,7 +117,8 @@ Dan's Software Engineering Handbook</span></a>
 <span class=k>class</span> <span class=nc>ApprovedPaymentProcessingState</span> <span class=p>:</span> <span class=n>PaymentProcessingState</span> <span class=p>{</span>
     <span class=k>fun</span> <span class=nf>process</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>:</span> <span class=n>PaymentRequest</span><span class=p>):</span> <span class=n>Status</span> <span class=p>{</span>
         <span class=c1>// mark a database record as approved
-</span><span class=c1></span>        <span class=k>return</span> <span class=n>Status</span><span class=p>.</span><span class=n>Completed</span>
+</span><span class=c1></span>        <span class=o>..</span>
+        <span class=k>return</span> <span class=n>Status</span><span class=p>.</span><span class=n>Completed</span>
     <span class=p>}</span>
 <span class=p>}</span>
 
@@ -130,7 +135,8 @@ Dan's Software Engineering Handbook</span></a>
 <span class=k>class</span> <span class=nc>ErrorPaymentProcessingState</span> <span class=p>:</span> <span class=n>PaymentProcessingState</span> <span class=p>{</span>
     <span class=k>fun</span> <span class=nf>process</span><span class=p>(</span><span class=n>paymentRequest</span><span class=p>:</span> <span class=n>PaymentRequest</span><span class=p>):</span> <span class=n>Status</span> <span class=p>{</span>
         <span class=c1>// mark a database record as error
-</span><span class=c1></span>        <span class=k>return</span> <span class=n>Status</span><span class=p>.</span><span class=n>Completed</span>
+</span><span class=c1></span>        <span class=o>..</span>
+        <span class=k>return</span> <span class=n>Status</span><span class=p>.</span><span class=n>Completed</span>
     <span class=p>}</span>
 <span class=p>}</span>
 
