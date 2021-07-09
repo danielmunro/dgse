@@ -109,7 +109,10 @@ class CompletedPaymentProcessingState : PaymentProcessingState {
 
 Finally, we can define a payment processing service, which ties all the states together:
 ```kotlin
-class PaymentProcessingService(private val userService, private val paymentGateway: PaymentGateway)  {
+class PaymentProcessingService(
+    private val userService: UserService, 
+    private val paymentGateway: PaymentGateway,
+)  {
     fun processPayment(paymentRequest: PaymentRequest) {
         when (paymentRequest.getStatus()) {
             Status.Requested -> RequestedPaymentProcessingState(userService).process(paymentRequest)
