@@ -2,6 +2,10 @@ body {
     font-size: 16pt;
 }
 
+a:visited {
+    color: #C65D91;
+}
+
 h2 {
     padding: 24px 0 0;
 }
