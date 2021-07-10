@@ -10,11 +10,9 @@ Knowledge is assumed. Misunderstandings flourish.
 
 An opaque profession does not do itself any favors. This handbook is a modest attempt by the author to lay out an open source glossary of terms, for the benefit of practitioners everywhere.
 
-## Target Audience
+## The Glossary
 
-It is the author's hope that new software engineers, web developers, programmers, hackers, and any other curious soul finds these documents useful.
-
-Because of this wide target audience, language is kept simple where possible. Complex language creates barriers, and prevents growth. Simplicity promotes understanding.
+Use the glossary on the left to look up terms and concepts. Each term in the glossary has a short definition, a section for related tags, and links to other resources on the internet, if any. The definitions for each term are intentionally concise, with minimal nuance. It's the author's hope that  glossary wording is approachable for newcomers, and serves as an accurate foundation for topical knowledge.
 
 ## Feedback
 
