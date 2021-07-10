@@ -22,5 +22,3 @@ Please use the following communication channels to send feedback:
  * <a href="mailto:feedback-handbook@tutanota.com?subject=Feedback: Introduction">Email</a>
  * [Github Issues](https://github.com/danielmunro/dgse/issues)
  * On an individual glossary page, use the feedback link that appears in the footer
-
-<!-- test -->
