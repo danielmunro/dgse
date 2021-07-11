@@ -20,3 +20,7 @@ Learning has been a lifelong hobby for Dan. Now, teaching is becoming a passion.
 [Twitter](https://twitter.com/danielmunro)
 
 [LinkedIn](https://www.linkedin.com/in/dan-munro-448b6120/)
+
+[GitHub](https://github.com/danielmunro)
+
+[SEHandbook Git Repository](https://github.com/danielmunro/dgse)
