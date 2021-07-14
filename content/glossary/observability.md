@@ -5,8 +5,9 @@ draft: false
 tags:
    - concept
 resources:
-   - { url: https://www.splunk.com/en_us/data-insider/what-is-observability.html, name: Splunk }
-   - { url: https://www.dynatrace.com/news/blog/what-is-observability/, name: Dynatrace }
+  - { url: https://www.splunk.com/en_us/data-insider/what-is-observability.html, name: Splunk }
+  - { url: https://www.dynatrace.com/news/blog/what-is-observability/, name: Dynatrace }
+  - { url: https://www.honeycomb.io/blog/observability-a-manifesto/, name: Honeycomb }
 ---
 
 Qualities of a platform that lend to its understandability. Such qualities are:
