@@ -14,9 +14,7 @@ An opaque profession does not do itself any favors. This handbook is a modest at
 
 Use the glossary on the left to look up terms and concepts. Each term in the glossary has a short definition, a section for related tags, and links to other resources on the internet, if any. The definitions for each term are intentionally concise, with minimal nuance. It's the author's hope that  glossary wording is approachable for newcomers, and serves as an accurate foundation for topical knowledge.
 
-## Feedback
+## Keep In Contact
 
-Please use the following communication channels to send feedback:
- * <a href="mailto:feedback-handbook@tutanota.com?subject=Feedback: Introduction">Email</a>
- * [Github Issues](https://github.com/danielmunro/dgse/issues)
- * On an individual glossary page, use the feedback link that appears in the footer
+* We welcome [Github Issues](https://github.com/danielmunro/dgse/issues)!
+* Follow us on [Twitter](https://twitter.com/SEHandbook).
